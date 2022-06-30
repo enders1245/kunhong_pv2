@@ -2,7 +2,7 @@
     "name": "kunhong_pv",
     "description": "Deploy myapp on Heroku.",
     "keywords": [
-        "V2Ray"
+        "kunhong_pv"
     ],
     "env": {
         "UUID": {
